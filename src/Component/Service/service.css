@@ -1,6 +1,7 @@
 .card_container{
     background-color: #ffffff;
     font-weight: bold;
+    transition: .5s ease all;
     
 }
 .card_container:hover{
@@ -8,4 +9,5 @@
     color: #ffffff;
     font-weight: bold;
     border: 1 px solid rgb(3, 85, 85) ;
+    
 }

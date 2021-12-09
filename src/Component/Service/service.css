@@ -1,0 +1,11 @@
+.card_container{
+    background-color: #ffffff;
+    font-weight: bold;
+    
+}
+.card_container:hover{
+    background-color: rgb(3, 85, 85);
+    color: #ffffff;
+    font-weight: bold;
+    border: 1 px solid rgb(3, 85, 85) ;
+}
